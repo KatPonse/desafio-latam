@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    }
+
+
+header .titulo{
+    padding: 1em;
+    text-align: center;
+}
+
+header .banner{
+    background-image: url('../img/bg-header.jpg');
+    background-size: cover;
+    height: 727px;
+}
+
+.box{
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 3em;
+}
+
+.iguana1{
+    width: 400px;
+}
+
+.parrafo{
+    padding: 1em;
+    text-align: left;
+    width: 475px;
+    padding-left: 2em;
+}
+.skills{
+    background-color: #1E1A13;
+    padding: 2em;
+}
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 750px;
+    margin: 0 auto;
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 2em;
+}
+
+h3{
+    text-align: center;
+    background-color: #1E1A13;
+}
+
+i{
+    background-color: #1E1A13;
+    padding: 1em;
+}
+
+.icon{
+    background-color: #1E1A13;
+}
+
+h5{
+    background-color: #1E1A13;
+}
+
+.galery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 900px;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.galery img{
+    max-width: 90%;
+}
+
+a{
+    background-color: #1E1A13;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: lime;
+}
+
+a:active{
+    color: yellow;
+}
+
+footer{
+    background-color: #1E1A13;
+    padding: 2em;
+    text-align: center;
+}

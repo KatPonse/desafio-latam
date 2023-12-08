@@ -9,6 +9,16 @@ Pruebas y desafios de estudio
 Para obtener el codigo del desafio 2 seguir la siguiente ruta:
 
 ```bash
-desafios/desafio2
+desafio2/
+```
+
+
+
+## Desafio 3
+
+Para obtener el codigo del desafio 3 seguir la siguiente ruta:
+
+```bash
+desafio3/
 ```
 
