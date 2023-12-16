@@ -22,3 +22,10 @@ Para obtener el codigo del desafio 3 seguir la siguiente ruta:
 desafio3/
 ```
 
+## Desafio 4
+
+Para obtener el codigo del desafio 4 seguir la siguiente ruta:
+
+```bash
+desafio4/
+```
